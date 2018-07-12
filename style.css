@@ -22,11 +22,31 @@ nav {
 }
 
 aside {
-  width: 495px;
+  width: 460px;
   float: right;
   background: #ebebeb;
   margin: 15px 0px 0px 20px;
   height: 300px;
   text-align: center;
-  line-height: 1em;
+  line-height: 4em;
+}
+
+section {
+  width: 480px;
+  background: #ebebeb;
+  float: left;
+  margin: 15px 0px 0px 0px;
+  text-align: center;
+  height: 300px;
+  padding-top: 15px;
+
+}
+
+article {
+  width: 450px;
+  background: #777;
+  color: #ebebeb;
+  margin: 40px 0px 0px 15px;
+  height: 210px;
+  line-height: 3em;
 }
